@@ -1,0 +1,4 @@
+C:\Users\imaker2\Documents\Visual Studio 10\Projects\Restaurent\Restaurent\bin\Debug\Form1.exe.config
+C:\Users\imaker2\Documents\Visual Studio 10\Projects\Restaurent\Restaurent\obj\x86\Debug\Form1.exe
+C:\Users\imaker2\Documents\Visual Studio 10\Projects\Restaurent\Restaurent\obj\x86\Debug\Form1.xml
+C:\Users\imaker2\Documents\Visual Studio 10\Projects\Restaurent\Restaurent\obj\x86\Debug\Form1.pdb
