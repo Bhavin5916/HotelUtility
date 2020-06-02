@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Hotel", "C#-Code\Demo.Hotel.csproj", "{DC4CA825-5CAC-432C-92EF-3B210649DD7A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Demo.HotelSel", "VB-Code\Demo.HotelSel.vbproj", "{E59392B5-ED6F-4788-B74E-25FF990D309F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		HOTEL|x86 = HOTEL|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.Debug|x86.ActiveCfg = Debug|x86
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.Debug|x86.Build.0 = Debug|x86
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.HOTEL|x86.ActiveCfg = Release|x86
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.HOTEL|x86.Build.0 = Release|x86
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.Release|x86.ActiveCfg = Release|x86
+		{DC4CA825-5CAC-432C-92EF-3B210649DD7A}.Release|x86.Build.0 = Release|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.Debug|x86.ActiveCfg = Debug|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.Debug|x86.Build.0 = Debug|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.HOTEL|x86.ActiveCfg = HOTEL|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.HOTEL|x86.Build.0 = HOTEL|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.Release|x86.ActiveCfg = Release|x86
+		{E59392B5-ED6F-4788-B74E-25FF990D309F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93944FC3-B1E4-4991-833A-8BCF89AF2283}
+	EndGlobalSection
+EndGlobal
